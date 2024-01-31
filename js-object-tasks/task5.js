@@ -31,4 +31,4 @@ for (let key in myObject) {
 }
 
 // object er jonno sadaronoto for in loop use kora hoi .for in loop er maddhome object er key and value access kora jai and then oi access kora key and value er moddhe type check kora jai /sob sese literal templeate er maddhome output er moto koro add kora jai .
- 
+  
